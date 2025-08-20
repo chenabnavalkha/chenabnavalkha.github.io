@@ -2,15 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate, <a href='https://dusp.mit.edu/people/chenab-navalkha'>MIT Department of Urban Studies and Planning</a>
+subtitle: 
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
+    <p>PhD Candidate, Urban Planning and Political Economy</p>
+    <p><a href='https://dusp.mit.edu/'>MIT Department of Urban Studies and Planning</a></p>
     <p>chenab (at) mit.edu</p>
-    <p>Cambridge, MA</p>
+    
     
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
