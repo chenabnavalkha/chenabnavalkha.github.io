@@ -84,7 +84,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name:  # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -168,7 +168,11 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts"]
+include: ["_scripts"]
+  - about.md
+  - cv.md
+  - publications.md
+  - teaching.md
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -189,6 +193,15 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - about_einstein.md
+  - blog.md
+  - books.md
+  - dropdown.md
+  - news.md
+  - profiles.md
+  - projects.md
+  - repositories.md
+
 keep_files:
   - CNAME
   - .nojekyll
