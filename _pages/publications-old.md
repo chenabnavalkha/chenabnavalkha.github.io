@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /publications-old/
 title: publications
 description: 
-nav: true
-nav_order: 2
+nav: false
+nav_order: 
 ---
 
 <!-- _pages/publications.md -->
