@@ -13,7 +13,7 @@ nav_order: 2
 
 <!-- {% include bib_search.liquid %} -->
 
-<div class="publications">
+<!-- <div class="publications"> -->
 
 
 <!--{% bibliography %} -->
@@ -27,9 +27,11 @@ Makelarski, J.A., DePumpo, M., Boyd, K., Brown, T., Kho, A., **Navalkha, C.,** L
 
 Weiner D., **Navalkha, C.,** Abramsohn, E., Paradise, K., DePumpo, M., Stiehl, M., Lindau, S.T.. 2019. [Mobile resource referral technology for preventive child welfare services: Implementation and feasibility. ](https://www.sciencedirect.com/science/article/abs/pii/S0190740919303871) Children and Youth Services Review. 
 
+
 ### Under Review
 
 **Navalkha, CA.** “Left at the Altar of Development”: A Counter-History of Black Grassroots Planning in Washington Park, Chicago. _Under review at the Journal of Planning History._
+
 
 ### From my time as a women's health researcher and patient educator...
 
@@ -37,11 +39,13 @@ Sobecki, J., Abramsohn, E., Hazen, A., Makelarski, J., **Navalkha, C.**, Wroblew
 
 Lees, B.F., Sobecki-Rausch, J., Stewart, T.P., Woo, K.M., **Navalkha, C.**, Boyd, K., Lindau, S.T. and Kushner, D.M., 2019. [Abuse history and sexual function among female cancer survivors attending a specialized sexual health clinic.](https://www.gynecologiconcology-online.net/article/S0090-8258(19)30546-3/abstract) Gynecologic Oncology.
 
+
 ## Book Chapters 
 
 Ndubuisi-Obi I, Ran Z, Li Y, **Navalkha CA,** Williams S, Tsai L. 2021. [Using Public-Private Data to Understand Compliance with Mobility Restrictions in Sierra Leone.](https://link.springer.com/chapter/10.1007/978-3-030-76059-5_3) In _Urban Informatics and Future Cities_. Springer, Cham. 
 
 **Navalkha C**, Lee G, Fang R, Fan Y. 2020. [Smart Sensing and Green Travel: An Innovative Green Nudge Strategy for Future Public Transit](https://www.sul.mit.edu/zz1). In: _Green Travel & Clean Air in Zhengzhou, China._ MIT Sustainable Urbanization Practicum. 
+
 
 ### Other Writing
 
