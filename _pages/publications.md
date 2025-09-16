@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Peer-Reviewed Articles 
 
-So, W., Aizman, A., **Navalkha, C.A.**, D’Ignazio, C. Housing Data Politics in the United States: Inequitable Open Data, Informal Networks, and Strategic Neutrality in the Pursuit of Justice. Journal of Urban Affairs. _Forthcoming._
+So, W., Aizman, A., **Navalkha, C.A.**, D’Ignazio, C. 2025. [Housing Data Politics in the United States: Inequitable Open Data, Informal Networks, and Strategic Neutrality in the Pursuit of Justice](https://www-tandfonline-com.libproxy.mit.edu/doi/pdf/10.1080/07352166.2025.2554754). Journal of Urban Affairs. 
 
 Abramsohn, E., DePumpo, M., Boyd, K., Brown, T., Garrett, M.F., Kho, A., **Navalkha, C.,** Paradise, K., Lindau, S.T. 2020. [Implementation of Community-Based Resource Referrals for Cardiovascular Disease Self-Management](https://www.annfammed.org/content/annalsfm/18/6/486.full.pdf). The Annals of Family Medicine. 
 
