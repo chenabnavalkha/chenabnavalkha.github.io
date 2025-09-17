@@ -14,6 +14,7 @@ profile:
     <p>chenab (at) mit.edu</p>
     
     
+    
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -34,3 +35,6 @@ I am a PhD candidate at MIT’s Department of Urban Studies and Planning. My res
 Part of my work focuses on understanding how digital real estate technologies impact the landlord-tenant relationship, facilitate global flows of housing investment, and affect the experience of residents. I take a multidisciplinary approach, drawing from scholarship in political economy, urban planning, geography, and history, with particular attention to local context and histories of racism and racialization in access to urban space and housing.
 
 Before coming to MIT, I worked as a public health researcher and patient educator in a women’s health clinic at the University of Chicago. I completed my undergraduate studies at the University of Chicago as well, where I double-majored in Philosophy and Biology. I also hold a Masters in City Planning from MIT.
+
+
+You can download my CV [here](https://drive.google.com/file/d/1-dU_Qad7X1mcWxQaXGXtLyS2Ea01GWWS/view?usp=drive_link).
