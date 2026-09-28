@@ -9,8 +9,8 @@
   --ink-soft: #666;
   --paper: #ffffff;
   --rule: #e6e6e6;
-  --accent: #2f5d7c;        /* muted slate blue — change this to recolor links */
-  --max-width: 900px;
+  --accent: #006699;        /* muted slate blue — change this to recolor links */
+  --max-width: 950px;
 }
 
 * { box-sizing: border-box; }
